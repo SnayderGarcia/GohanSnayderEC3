@@ -1,0 +1,1 @@
+insert into usuario_cliente(usuario,password,rol id_cliente) values("Snaydedr","123","ROLE_ADMIN",2)
